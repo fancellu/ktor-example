@@ -1,6 +1,8 @@
-## Little Kotlin Ktor web server example
+## Little Kotlin Ktor 1.2.4 web server example
 
 https://ktor.io/
+
+This is for an older version of Ktor, so probably only of historical interest 
 
 ### Running
 
